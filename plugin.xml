@@ -16,7 +16,7 @@
   </js-module>
 
   <!--<dependency id="org.apache.cordova.device" url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git" commit="master" subdir="." />-->
-  <dependency id="org.apache.cordova.device" url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git@0.3.0" commit="master" subdir="." />
+  <!--<dependency id="org.apache.cordova.device" url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-device.git@0.3.0" commit="master" subdir="." />-->
   
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
